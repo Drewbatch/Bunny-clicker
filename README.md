@@ -1,2 +1,0 @@
-# Bunny-clicker
-A game
